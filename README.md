@@ -8,7 +8,9 @@ Make sure to clone with submodules, like so:
 Install dependencies:
 
 ```sudo pip3 install --pre pyusb```
+
 ```sudo apt install v4l-utils```
+
 ```sudo pip3 install camset```
 
 Then run:
