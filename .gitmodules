@@ -1,3 +1,6 @@
 [submodule "ps4eye"]
 	path = ps4eye
 	url = https://github.com/ps4eye/ps4eye
+[submodule "hdcamera"]
+	path = hdcamera
+	url = https://github.com/prosperodev/hdcamera
