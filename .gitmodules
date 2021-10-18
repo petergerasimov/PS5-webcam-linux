@@ -1,0 +1,3 @@
+[submodule "ps4eye"]
+	path = ps4eye
+	url = https://github.com/ps4eye/ps4eye
